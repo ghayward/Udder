@@ -14,6 +14,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Udder")
+            Text("Milk Design is My Galaxy")
         }
         .padding()
     }
