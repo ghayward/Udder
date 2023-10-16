@@ -15,6 +15,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Udder")
             Text("Milk Design is My Galaxy")
+            Text("Who would not give everything to be there when the frist man dranketh from the cow udder? Many an eye would be wet with tears.")
         }
         .padding()
     }
